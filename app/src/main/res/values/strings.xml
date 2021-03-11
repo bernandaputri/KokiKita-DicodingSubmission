@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Koki Kita</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="detail">Detail</string>
+    <string name="bahan">Bahan yang dibutuhkan:</string>
+    <string name="detail_bahan">Detail bahan</string>
+    <string name="tutorial">Cara membuat:</string>
+    <string name="detail_tutorial">Detail cara membuat</string>
+    <string name="email">Ini email user</string>
+    <string name="user_name">Ini nama user</string>
+</resources>
